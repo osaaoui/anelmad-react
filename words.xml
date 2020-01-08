@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="schema_dico.xsd">
+
+  
+	  <!-- about: adverb -->
+      <form>
+      <orth>about</orth>
+      <pron>/&#600;ba&#650;t/</pron> <!-- IPA pronunciation -->
+      <gramGrp> <!-- grammatical information -->
+      <pos> adverb</pos> <!-- part of speech -->
+      </gramGrp>
+      <sense>
+      <translation>
+      <quote>azal n, qrib</quote>
+      <examples>
+        <example>I waited for about an hour</example>
+        <transExample>ruja&#947; azal n ssa&#1297;a / Ruja&#947; qrib ssa&#1297;a</transExample>
+      </examples>
+
+      </translation>
+      </sense>
+      </form>
+
+      <!-- about: preposition -->
+      <form>
+      <orth>about</orth>
+      <pron>/&#600;ba&#650;t/</pron> <!-- IPA pronunciation -->
+      <gramGrp> <!-- grammatical information -->
+      <pos> preposition</pos> <!-- part of speech -->
+      </gramGrp>
+      <sense>
+      <translation>
+      <quote>&#947;ef, f</quote>
+      <examples>
+        <example>she is reading a book about flowers</example>
+        <transExample>te&#947;&#947;ar(teqqar) taktubt(adlis) &#947;ef tje&#287;&#287;igin</transExample>
+      </examples>
+
+      </translation>
+      <expression>
+      <quote>how/what about ... ?: I'm having coffee. How about you?</quote>
+      <transExample>nekk ad swe&#947; lqahwa. i ke&#269;&#269;/kem?</transExample>
+      </expression>
+      <expression>
+      <quote>be about to ... : I was just about to call you</quote>
+      <transExample>anigar/&#7717;aca i teddu&#947; ad k-id siwle&#947;</transExample>
+      </expression>
+      </sense>
+      </form>
+
+      <!-- above: preposition -->
+      <form>
+      <orth>above</orth>
+      <pron>/&#600;'b&#652;v/</pron> <!-- IPA pronunciation -->
+      <gramGrp> <!-- grammatical information -->
+      <pos>preposition</pos> <!-- part of speech -->
+      </gramGrp>
+      <sense>
+      <translation>
+      <quote>nnig, sennig</quote>
+      <examples>
+        <example>she hung a picture above the fireplace</example>
+        <transExample>t&#1297;elleq etteswira sennig lkanun</transExample>
+      </examples>
+
+      </translation>
+      </sense>
+      </form>
+
+
+      <!-- acid -->
+      <form>
+      <orth>acid</orth>
+      <pron>/'&#230;sid/</pron> <!-- IPA pronunciation -->
+      <gramGrp> <!-- grammatical information -->
+      <pos>adjective</pos> <!-- part of speech -->
+      </gramGrp>
+      <sense>
+      <translation>
+      <quote>(d) asemmam</quote>
+      </translation>
+      </sense>
+      </form>
+
+
+      <!-- act: noun -->
+      <form>
+      <orth>act</orth>
+      <pron>/&#230;kt/</pron> <!-- IPA pronunciation -->
+      <gramGrp> <!-- grammatical information -->
+      <pos>noun</pos> <!-- part of speech -->
+      </gramGrp>
+      <sense>
+      <translation>
+      <quote>[plural] lef&#1297;ayel, lexdami</quote>
+      </translation>
+      </sense>
+      <sense>
+      <translation>
+      <quote>le&#1297;qed</quote>
+      </translation>
+      </sense>
+      </form>
+
+</entry>
