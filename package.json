@@ -1,10 +1,21 @@
 {
   "name": "dicoinreact",
   "version": "1.0.0",
-  "description": "dico in react",
+  "description": "dico version",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osaaoui/anelmad-react.git"
   },
   "keywords": [
     "react",
@@ -12,10 +23,8 @@
   ],
   "author": "omar saaoui",
   "license": "ISC",
-  "dependencies": {
-    "@material-ui/icons": "^4.5.1",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "xml2js": "^0.4.23"
-  }
+  "bugs": {
+    "url": "https://github.com/osaaoui/anelmad-react/issues"
+  },
+  "homepage": "https://github.com/osaaoui/anelmad-react#readme"
 }
