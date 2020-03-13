@@ -193,7 +193,7 @@ app.get("/api/lexemes", (req, res) => {
   console.log("l'option est: ", req.query.optionValue);
   console.log("le mot est: ", req.query.searchTerm);
   if (optionValue == "English-Kabyle") {
-    fs.readFile("newWords.xml", "utf-8", function(err, data) {
+    fs.readFile("words.xml", "utf-8", function(err, data) {
       if (err) {
         console.log("error");
         //res.send(err);
@@ -204,7 +204,9 @@ app.get("/api/lexemes", (req, res) => {
           //let words = JSON.stringify(result['entry']['form']);
           let words = result["entry"]["form"];
           let str = words.filter(x => x.orth == searchTerm);
+          //words = words.filter(x => x.orth.indexOf(searchTerm) !== -1);
           console.log("typeof words: ", str);
+          console.log(" words: ", words);
 
           res.json(str);
         });

@@ -1,0 +1,68 @@
+var MyClass = Class.create();
+MyClass.prototype= Object.extends(myOtherSi, {
+
+})
+
+
+4 ans
+30 dev
+
+
+3 semaines de vacances
+
+
+service générique
+ 
+
+
+ reunion Alten /Vanessa: 23-01-2019  poste servicenow
+
+ "proto-repl":
+    leinPath: "C:\\Users\\omar\\.lein\\bin\\lein.bat"
+
+
+
+Ivanohé Cambridge: Real estate company; subsidiary of caisse de dépot et de placement
+
+fondé au qc en 1953
+
+
+
+weaknesses:
+sometimes it's ok it I don't know things
+
+strengths: Je peux livrer les projets et à temps
+
+
+questions about the company:
+What are the organization's biggest challenges?
+
+Questions about the position
+
+What immediate projects or tasks would I be working on?
+How would you describe the ideal candidate?
+What training programs are available to new employees?
+
+What do employees enjoy most about working here?
+What key values or attitudes does the organization look for in the people it hires?
+
+
+
+
+How do I test:
+Unit testing / tests unitaires
+
+Personnify a User
+Browser performance
+Performance
+code review
+
+
+
+
+
+
+formulaires dynamiques
+personne débrouillard
+cherche à développer ses compétences
+
